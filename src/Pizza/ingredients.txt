@@ -5,4 +5,5 @@ Recette pour une bonne pizza :
 -De la pate à pizza
 -De l'huile d'olive
 -Du fromage de chèvre
+-Du chocolat
 -Du miel
